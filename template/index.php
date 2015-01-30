@@ -28,6 +28,7 @@
 	deserunt mollit anim id est laborum.
 </p> 
 	
-<?php	
+<?php
+	echo "test github";
 	require("footer.html");
 ?>
